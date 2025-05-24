@@ -2,7 +2,7 @@
 
 A graphical chess implementation with an elegant UI built using PyGame and python-chess, using AWS Q.
 
-![Chess Game using AWS Q](https://youtu.be/OZM6BmLVeYU)
+[Chess Game using AWS Q](https://youtu.be/OZM6BmLVeYU)
 
 ## Features
 

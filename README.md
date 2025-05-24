@@ -1,8 +1,8 @@
-# Chess Game
+# Chess Game using AWS Q
 
-A graphical chess implementation with an elegant UI built using PyGame and python-chess.
+A graphical chess implementation with an elegant UI built using PyGame and python-chess, using AWS Q.
 
-![Chess Game Screenshot](https://example.com/chess_screenshot.png)
+![Chess Game using AWS Q](https://youtu.be/OZM6BmLVeYU)
 
 ## Features
 
@@ -86,15 +86,15 @@ You can customize the game by modifying:
 ## Prompts Used with AWS Q CLI
 This project was prototyped with the help of AWS Q CLI for initial scaffolding and iterative improvements. Below are the prompts used during development:
 
-Initial Prompt
+-Initial Prompt
 
 Create a Chess game using Python and PyGame. The board should be 8x8 and styled like a real chessboard with alternating light and dark square colors. Draw or use images for all standard chess pieces and display their names like "Pawn", "Rook", "Knight", "Bishop", "Queen", and "King" either on or just below each piece using readable fonts. The game should be played between a human and a basic AI. Use the `python-chess` library to validate legal moves. Implement piece selection, movement, and capturing logic. Ensure turns alternate properly between the player and the AI. The AI can make random valid moves for simplicity. Add basic UI interactions like selecting a piece and clicking to move it. Avoid implementing check/checkmate logic unless simple. Focus on functionality, clarity, and piece visibility.
 
-UI Enhancement Feedback
+-UI Enhancement Feedback
 
 Please can you work on UI of game? Make the chessboard look more like a professional chessboard, if possible. You can do changes as per your convenience, but please take note on better Professional UI.
 
-Specific Refinement Request
+-Specific Refinement Request
 
 Can you help me to make shape of pawn more proper, it looks unprofessional; also please make size of entire chessboard a little bit small, as it's not properly fitting my screen.
 

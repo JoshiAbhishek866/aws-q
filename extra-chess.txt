@@ -1,0 +1,17 @@
+The game appears to be starting up. You should now see the chess game window with the professional UI featuring:
+
+• A chessboard with cream and forest green squares on a dark background
+• Custom designed chess pieces
+• Board coordinates in standard chess notation (a-h, 1-8)
+
+To play the game:
+1. Click on a white piece to select it
+2. Valid moves will be highlighted with dots (empty squares) or rings (captures)
+3. Click on a destination square to move your piece
+4. The AI will automatically respond with a move
+
+You're playing as white, and the AI is playing as black. Standard chess rules apply, including special moves like castling and en 
+passant.
+
+To quit the game, simply close the window when you're done playing.
+
